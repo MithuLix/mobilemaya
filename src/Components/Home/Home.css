@@ -1,0 +1,9 @@
+#mobiles { display: grid; grid-template-columns: repeat(3, 1fr);
+    grid-gap: .5rem; text-align: center;
+}
+
+@media only screen and (max-width: 425px) {
+    #mobiles {
+        display: grid; margin : 1rem; grid-template-columns: 1fr; width: fit-content;
+    }
+}
