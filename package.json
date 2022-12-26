@@ -1,5 +1,5 @@
 {
-  "name": "Mithulix-contribution",
+  "name": "mobilemaya-client",
   "dependencies": {
     "jsonfile-updater": "^3.1.0"
   },
