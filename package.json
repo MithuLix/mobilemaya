@@ -1,11 +1,7 @@
 {
   "name": "Mithulix-contribution",
   "dependencies": {
-    "jsonfile": "^4.0.0",
-    "jsonfile-updater": "^3.1.0",
-    "moment": "^2.29.4",
-    "random": "^3.0.6",
-    "simple-git": "^3.15.1"
+    "jsonfile-updater": "^3.1.0"
   },
   "version": "1.0.0",
   "main": "graph.js",
